@@ -1,4 +1,4 @@
-# <p align="center">Divvy-Bikes-Usage-Analysis using Tableau</p>
+# <p align="center">Divvy Bikes Usage Analysis using Tableau</p>
 
 ## Introduction
 
