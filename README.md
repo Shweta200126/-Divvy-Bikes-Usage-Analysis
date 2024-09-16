@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The goal of this project is to use Tableau to visualize the usage patterns of Divvy bikes in Chicago in 2019. By analyzing the trip data provided, we can gain insights into when, where, and how bikes are being used. This information can be useful for Divvy and the City of Chicago in planning future bike infrastructure and promoting sustainable transportation options.
+The goal of this project is to use Tableau to visualize the usage patterns of Divvy bikes in Chicago in 2019. By analyzing the trip data provided, we can gain insights into when, where, and how bikes are being used.
 
 ### Tableau Link - 
 <b>
