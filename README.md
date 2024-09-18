@@ -1,6 +1,10 @@
-# <p align="center">Divvy Bikes Usage Analysis using Tableau</p>
+# Divvy Bikes Usage Analysis using Tableau</p>
 
-## Introduction
+## Project Background
+
+Divvy is a bike-sharing system in Chicago, owned by the [Chicago Department of Transportation](http://www.cityofchicago.org/city/en/depts/cdot.html) (CDOT). It was launched in June 28, 2013 and has been operated by [Lyft](https://www.lyft.com/) since 2019. Divvy is considered one of the primary bike-share system in Chicago,  with over 400,000 new riders and 5.5 million rides taken in 2021. Divvy has two primary group users, which are annual membership riders and casual riders. One of Divvy’s goals is to increase the number of annual membership riders. This project will focus on in-depth analysis of Divvy’s rider behavior and how external factors impact its ridership.
+
+## Project Goal
 
 The goal of this project is to use Tableau to visualize the usage patterns of Divvy bikes in Chicago in 2019. By analyzing the trip data provided, we can gain insights into when, where, and how bikes are being used.
 
