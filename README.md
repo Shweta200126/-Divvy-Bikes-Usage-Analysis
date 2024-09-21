@@ -12,7 +12,7 @@ The goal of this project is to use Tableau to visualize the usage patterns of Di
 
 ### Tableau Link - 
   https://public.tableau.com/app/profile/shweta.anand/viz/Who_are_the_riders/Whoaretheriders
-<b>
+<br>
 
 ## Data
 
