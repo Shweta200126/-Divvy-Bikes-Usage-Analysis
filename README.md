@@ -46,6 +46,13 @@ Tableau will be used to create a series of interactive dashboards to visualize t
 
 • Bar charts showing the gender and age distribution of Subscribers.
 
+## Datasets used in the project
+- Trip data from the Divvy: https://divvy-tripdata.s3.amazonaws.com/index.html
+-	Station data from Chicago Data Portal: https://data.cityofchicago.org/Transportation/Divvy-Bicycle-Stations/bbyy-e7gq/data
+-	Weather data from National Weather Service: https://www.weather.gov/wrh/climate?wfo=lot
+-	Population data from Chicago Data Portal: https://data.cityofchicago.org/Health-Human-Services/Chicago-Population-Counts/85cm-7uqa
+
+
 ## Conclusion
 
 By using Tableau to analyze the Divvy bike trip data, we can gain valuable insights into how bikes are being used in Chicago. This information can be useful in planning future bike infrastructure and promoting sustainable transportation options. The interactive dashboards created will allow users to easily explore the data and uncover patterns and trends in bike usage.
