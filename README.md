@@ -11,7 +11,7 @@ Divvy as of September 2024 has 1,014 stations in total.
 The goal of this project is to use Tableau to visualize the usage patterns of Divvy bikes in Chicago in 2019. By analyzing the trip data provided, we can gain insights into when, where, and how bikes are being used.
 
 ### Tableau Link - 
-  https://public.tableau.com/app/profile/shweta.anand/viz/Who_are_the_riders/Whoaretheriders
+   https://public.tableau.com/app/profile/shweta.anand/viz/2_3_side_by_side_17291356619870/Whoaretheriders
 <br>
 
 ## Data
